@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/will/Tutorial_to_CMake/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/hello_cmake.dir/main.cpp.o -c /home/will/Tutorial_to_CMake/01-basic/A-hello-cmake/main.cpp",
+  "file": "/home/will/Tutorial_to_CMake/01-basic/A-hello-cmake/main.cpp"
+}
+]
